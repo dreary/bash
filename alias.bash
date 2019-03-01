@@ -19,3 +19,7 @@ alias reload='source ~/.bashrc'
 alias '~'='cd ~/'
 alias ..='cd ../'
 alias ...='cd ../../'
+
+# Access to Microsoft OneDrive
+alias onec='cd /mnt/c/Users/Holger/OneDrive'
+alias oned='cd /mnt/d/OneDrive'
