@@ -16,5 +16,6 @@ alias pager="$PAGER"
 
 alias reload='source ~/.bashrc'
 
+alias '~'='cd ~/'
 alias ..='cd ../'
 alias ...='cd ../../'
